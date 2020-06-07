@@ -1,0 +1,1 @@
+x = 123467b=''while True:    b = chr(ord('0') + x %10) + b    x= x // 10    if(x == 0):        break    print(b)print(type(b))
