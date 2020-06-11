@@ -1,4 +1,4 @@
-# alpha to integer testing the code 
+# alp ha to integer testing the code  
 x = '92666'
 b = 0
 for item in x:
